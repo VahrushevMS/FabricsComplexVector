@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (fabrics.vcxproj, tren.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  1.cpp
+C:\прога\FabricsVec\FabricsVec\1.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Child1and2.cpp
+  ComplexVector.cpp
+  main.cpp
+C:\прога\FabricsVec\FabricsVec\main.cpp(42,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  test.cpp
+  Создание кода...
+  FabricsVec.vcxproj -> C:\прога\FabricsVec\x64\Debug\FabricsVec.exe

@@ -1,0 +1,12 @@
+﻿  1.cpp
+C:\Users\svilo\source\repos\FabricsVec\FabricsVec\1.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Child1and2.cpp
+  ComplexVector.cpp
+  main.cpp
+C:\Users\svilo\source\repos\FabricsVec\FabricsVec\main.cpp(42,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  test.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 443 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  FabricsVec.vcxproj -> C:\Users\svilo\source\repos\FabricsVec\x64\Release\FabricsVec.exe
